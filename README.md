@@ -9,9 +9,9 @@ https://www.astro.ucla.edu/~clairewilliams/cluster-catalog
 [![arXiv](https://img.shields.io/badge/arXiv-2502.17561-b31b1b.svg)](https://arxiv.org/abs/2502.17561)
 [![DOI](https://zenodo.org/badge/932941070.svg)](https://doi.org/10.5281/zenodo.15392998)
 
-Original paper: [ΛCDM star clusters at cosmic dawn: stellar densities, environment, and equilibrium - Williams et al (2025)](https://arxiv.org/abs/2502.17561)
+When using this dataset, please cite the original paper: [ΛCDM star clusters at cosmic dawn: stellar densities, environment, and equilibrium - Williams et al (2025)](https://arxiv.org/abs/2502.17561)
 
-Database DOI: [zenodo.15392998](https://doi.org/10.5281/zenodo.15392998).
+The database is permanently located at: [zenodo.15392998](https://doi.org/10.5281/zenodo.15392998).
 
 ### License
 [![CC BY 4.0][cc-by-shield]][cc-by]
