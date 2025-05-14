@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/932941070.svg)](https://doi.org/10.5281/zenodo.15392998)
+
 # arepo-clusters
 Catalog of simulated Pop III star clusters (Williams et al 2025) 
 
@@ -5,7 +7,7 @@ Catalog of simulated Pop III star clusters (Williams et al 2025)
 https://www.astro.ucla.edu/~clairewilliams/cluster-catalog
 
 # Citation
-Williams et al (2025)
+[ΛCDM star clusters at cosmic dawn: stellar densities, environment, and equilibrium - Williams et al (2025)](https://arxiv.org/abs/2502.17561)
 
 
 ### License
